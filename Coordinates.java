@@ -24,8 +24,8 @@ public class Coordinates{
 		imprime("" + p1);
 		imprime("" + p2);
 
-		String a = "coche";
-		String b = "coche";
+		String a = "moto";
+		String b = "moto";
 
 		if(a.equals(b)){
 			imprime("P1 y P2 son iguales segun equals");
